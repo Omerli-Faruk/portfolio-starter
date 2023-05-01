@@ -12,6 +12,7 @@ module.exports = {
       },
     },
     screens: {
+      xs: '420px',
       sm: '640px',
       md: '768px',
       lg: '960px',
@@ -24,8 +25,7 @@ module.exports = {
       },
       backgroundImage: {
         site: "url('./assets/site-bg.jpg')",
-        about: "url('./assets/about.png')",
-        services: "url('./assets/services.png')",
+        about: "url('./assets/about.svg')",
       },
     },
   },
